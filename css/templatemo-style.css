@@ -1,7 +1,4 @@
-/*
-Impulse Template
-http://www.templatemo.com/tm-469-impulse
-*/
+
 
 body {
 	background: #f8f8f8;
@@ -130,7 +127,7 @@ transform: perspective(120px) rotateX(-180deg) rotateY(-179.9deg);
 	-webkit-align-items: center;
 	-ms-flex-align: center;
 	align-items: center;
-	height: 58vh;
+	height: 48vh;
 	text-align: center;
 }
 #home h2 {
