@@ -251,9 +251,10 @@
         </ul>
       </div>
       <div class="col-md-12 col-sm-12 copyright">
-        <p>&copy; <?php echo date("Y") ?>. Developed by AK.
-        
-        | Developed by <a target="_blank" rel="nofollow" >AK</a></p>
+        <p>
+Copyright © 2016 | Developed by
+<a rel="nofollow" target="_blank">AK</a>
+        </p>
       </div>
     </div>
   </div>
