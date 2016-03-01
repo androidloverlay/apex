@@ -251,7 +251,7 @@
         </ul>
       </div>
       <div class="col-md-12 col-sm-12 copyright">
-        <p>Copyright © 2015 Apex 
+        <p>&copy; <?php echo date("Y") ?>. Developed by AK.
         
         | Developed by <a target="_blank" rel="nofollow" >AK</a></p>
       </div>
